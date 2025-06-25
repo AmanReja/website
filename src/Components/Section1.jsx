@@ -1,7 +1,7 @@
 import React from "react";
 import Blcover from "../assets/images/black.png";
-import vector1 from "../assets/icons/vector1.png";
-import vector2 from "../assets/icons/vector2.png";
+import vector1 from "../assets/icons/Vector1.png";
+import vector2 from "../assets/icons/Vector2.png";
 import vector3 from "../assets/icons/Group.png";
 
 const Section1 = () => {
